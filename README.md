@@ -8,8 +8,9 @@ This repository was created as part of my Unity learning journey and accompanies
 
 ## 📽️ Demo
 
->🎥 **Watch the full explanation on LinkedIn:**
-https://www.linkedin.com/posts/abikarthick_unity-unity3d-gamedevelopment-activity-7477455397176492032-L3a8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSOB30BmmB1CU-K0qKbTzBatWHrXxYbp5U
+🎥 **Watch the full explanation on LinkedIn**
+
+➡️ [View LinkedIn Video](https://www.linkedin.com/posts/abikarthick_unity-unity3d-gamedevelopment-activity-7477455397176492032-L3a8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSOB30BmmB1CU-K0qKbTzBatWHrXxYbp5U)
 
 <!-- Replace this image with your thumbnail -->
 
@@ -141,9 +142,9 @@ if (Physics.Raycast(ray, out RaycastHit hit, float.MaxValue, layerMask))
 
 # 🤝 Connect With Me
 
-**LinkedIn:** *(COMMING SOON)*
+* 💼 **LinkedIn:** [Abikarthick G](https://www.linkedin.com/in/abikarthick)
 
-**GitHub:** [https://github.com/ABIKARTHICK-412](https://github.com/ABIKARTHICKGDEV)
+* 💻 **GitHub:** [ABIKARTHICKGDEV](https://github.com/ABIKARTHICKGDEV)
 
 ---
 
