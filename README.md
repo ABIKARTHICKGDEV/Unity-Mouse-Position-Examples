@@ -8,7 +8,8 @@ This repository was created as part of my Unity learning journey and accompanies
 
 ## 📽️ Demo
 
-> **LinkedIn Video:** *(COMMING SOON)*
+>🎥 **Watch the full explanation on LinkedIn:**
+https://www.linkedin.com/posts/abikarthick_unity-unity3d-gamedevelopment-activity-7477455397176492032-L3a8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSOB30BmmB1CU-K0qKbTzBatWHrXxYbp5U
 
 <!-- Replace this image with your thumbnail -->
 
